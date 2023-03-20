@@ -12,5 +12,5 @@
  
  A dedicated error fixing tool that helps developers identify and fix common errors in their ROS code.
 #  License
-The project is licensed under the . See the   file for more details.
+The project is licensed under the GNU LICENSE . See the LICENSE file for more details.
  
